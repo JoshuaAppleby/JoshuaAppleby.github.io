@@ -1,0 +1,10 @@
+body {
+    background: rgb(15,72,189);
+    background: linear-gradient(125deg, rgba(15,72,189,1) 0%, rgba(0,212,255,1) 100%);
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.header--main {
+
+}
