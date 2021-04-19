@@ -1,25 +1,6 @@
-body,h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-    height: 100%;
-    margin: 0%;
-    color: white;
+.header-main {
+    size: 50px;
 }
-
-.indexbgimg {
-    background-image: url("/../images/indexbackground.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 100% cover;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.indextitle {
-    font-size: 50px;
-    
-}
-
-.indexsub {
-    font-size: 20px;
+.sub-main {
+    size: 20px;
 }
